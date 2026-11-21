@@ -1,0 +1,14 @@
+{
+  "name": "moonoh-marketplace",
+  "displayName": "Moonoh NYC & NJ Marketplace",
+  "version": "1.0.1",
+  "description": "Search 39,762 verified secondhand listings, curated NYC local boutique items, and regional market price reports across NYC & Northern NJ.",
+  "author": {
+    "name": "Moonoh Inc.",
+    "url": "https://moon-oh.com"
+  },
+  "repository": "https://github.com/moonohmarket/moon-oh",
+  "homepage": "https://moon-oh.com",
+  "license": "MIT",
+  "mcpServers": "./mcp.json"
+}
