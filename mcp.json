@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moonoh-marketplace": {
+      "type": "streamable-http",
+      "url": "https://moon-oh.com/api/mcp"
+    }
+  }
+}
